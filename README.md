@@ -30,6 +30,9 @@ Tienda para venta de albunes, streaming.
 - Java Script
 ***
 ## Diagrama de Flujo.
+![Diagramas de flujo](https://github.com/user-attachments/assets/ea22def1-93e4-4c4f-ba75-0f495c1a5290)
+
+***
 
 
 
